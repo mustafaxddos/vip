@@ -424,23 +424,3 @@ def main():
 if __name__ == '__main__':
     main()
 in()
-nning.")
-
-if __name__ == '__main__':
-    main()
-in()
- logger.info("Bot is running.")
-
-if __name__ == '__main__':
-    main()
-in()
-
-    application.run_polling()
-    logger.info("Bot is running.")
-
-if __name__ == '__main__':
-    main()
-in()
-__':
-    main()
-in()
